@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Étudiant en Web Académie à Epitech Lille<br>- Recherche une alternance en développement web de Septembre 2026 à Novembre 2027.<br>
+- Étudiant en Web Académie à Epitech Lille
+- Recherche une alternance en développement web de Septembre 2026 à Novembre 2027.<br>
 
 
 ## 🌐 Socials:
